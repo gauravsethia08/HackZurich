@@ -12,4 +12,18 @@ Lets hack some pizzasss
 # Run the backend
 
 - export FLASK_APP=backend.py
-- python -m flask run 
+- python -m flask run
+
+## Screenshots of Web Application
+
+
+<table align="center">
+<tr>
+     <td>
+         <img src="data.JPG" height="180" width="350">
+     	</td>
+     	<td>
+         <img src="index.JPG" height="180" width="350">
+     	</td>
+</tr>
+</table>
